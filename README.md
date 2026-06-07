@@ -66,19 +66,19 @@ The project simulates a real-world inventory and billing workflow with role-base
 
 ### Admin Dashboard
 
-<img width="692" height="271" alt="image" src="https://github.com/user-attachments/assets/cedf8927-276f-453b-ba93-7a6c582fb1e2" />
+<img width="661" height="217" alt="image" src="https://github.com/user-attachments/assets/c0fc8aed-92e4-4993-85f9-9b9a7fe30f43" />
 
-### Show Inventory Screen
+### View Inventory Screen
 
-<img width="1087" height="196" alt="image" src="https://github.com/user-attachments/assets/71a0a0bf-eaa5-4da5-a0e3-d83858c029e1" />
+<img width="1084" height="196" alt="image" src="https://github.com/user-attachments/assets/d80e5d55-8bb8-4589-8f8c-43a05ef4f2ff" />
 
 ### Bill Generation
 
-<img width="1029" height="193" alt="image" src="https://github.com/user-attachments/assets/08c3a23b-d6f5-4b45-9e17-b2c7986f3c02" />
+<img width="1030" height="191" alt="image" src="https://github.com/user-attachments/assets/a71cf2a0-2917-45b1-9efe-7667996e4436" />
 
 ### Refund Processing
 
-<img width="580" height="118" alt="image" src="https://github.com/user-attachments/assets/1377f228-57ae-4845-bdcc-9a0dcb1e00c4" />
+<img width="575" height="126" alt="image" src="https://github.com/user-attachments/assets/e5c8572d-54af-43a3-9c32-8f74690c55bd" />
 
 ---
 
